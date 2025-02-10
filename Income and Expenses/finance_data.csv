@@ -1,0 +1,18 @@
+date,amount,category,description
+21-07-2024,Income,Salary,12.87
+22-09-1997,50.31,%Income, Salary VC
+21-07-2024,12.87,Income,Salary
+%Income,KK,4.0,10-02-2022
+Income,Salary,12.87,21-07-2024
+10-02-2021,%Income,UU,22.22
+21-07-2024,Income,Salary,12.87
+j,%Income,40.32,01-01-2001
+G,%Income,10-02-2021,22.22
+%Income,klh,22-02-2021,22.22
+Income,Salary,21-07-2024,12.87
+22.22,22-02-2001,%Income,KK
+12.87,21-07-2024,Income,Salary
+%Income,22.02,k,22-02-2001
+Income,12.87,Salary,21-07-2024
+01-01-1991,2000.0,%Income,G
+21-07-2024,12.87,Income,Salary
